@@ -1,15 +1,18 @@
-@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
 
 @import "tailwindcss";
 
-body {
-  font-family: "Work Sans", sans-serif;
-}
-
 @theme {
   --font-WorkSans: "Work Sans", sans-serif;
+  --font-Montserrat: "Montserrat", sans-serif;
 
   /* Colors */
-  --primary-bg-color: oklch(23.12% 0.0402 211.6);
+  --primary-bg-color: oklch(23.96% 0.0397 211.75);
   --secondary-bg-color: oklch(86.98% 0.1468 197.5);
+  --border-color: oklch(32.59% 0.0407 210.55);
+}
+
+body {
+  font-family: "Work Sans", sans-serif;
+  background-color: var(--primary-bg-color);
 }

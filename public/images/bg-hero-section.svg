@@ -1,15 +1,16 @@
 <svg width="1440" height="573" viewBox="0 0 1440 573" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g clip-path="url(#clip0_1_77)">
-<rect x="363" width="1173" height="572" fill="url(#pattern0_1_77)"/>
+<rect x="383" width="1153" height="572" fill="url(#pattern0_1_77)"/>
 <g style="mix-blend-mode:lighten">
-<rect x="363" width="1173" height="572" fill="#002228"/>
+<rect x="383" width="1153" height="572" fill="#002228"/>
 </g>
 <g style="mix-blend-mode:color">
-<rect x="363" width="1173" height="572" fill="#0FF1F6"/>
+<rect x="383" width="1153" height="572" fill="#0FF1F6"/>
 </g>
 <g style="mix-blend-mode:color">
 <rect width="1440" height="572" fill="#02242A"/>
 </g>
+<rect x="285" y="1" width="232" height="572" fill="#02242A"/>
 </g>
 <defs>
 <pattern id="pattern0_1_77" patternContentUnits="objectBoundingBox" width="1" height="1">
