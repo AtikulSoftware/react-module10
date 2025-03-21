@@ -27,7 +27,7 @@ const AiDrFeaturesGrid = () => {
     return (
         <>
             <Container>
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-6 my-10">
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-6 my-10 py-10">
                     {items.map((item, index) => (
                         <div key={index} className="p-4 text-white space-y-2">
                             <img src={item.icon} alt={item.title} width={50} height={50} />
