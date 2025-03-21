@@ -8,6 +8,7 @@ import Hero from './components/Hero'
 import Navbar from './components/navbar/navbar'
 import OurTrustedPartners from './components/our-trusted-partners'
 import PerformanceStats from './components/performances-stats'
+import TestimonialSlider from './components/testimonial/testimonials'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -19,6 +20,7 @@ function App() {
       <OurTrustedPartners />
       <AiDrFeaturesGrid />
       <AiDrControlPanel />
+      <TestimonialSlider/>
       <PerformanceStats/>
       <GetStarted />
       <Footer />
