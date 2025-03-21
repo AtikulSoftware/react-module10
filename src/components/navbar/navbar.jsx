@@ -6,7 +6,7 @@ import Logo from './logo';
 const Navbar = () => {
     return (
         <>
-            <nav className="border-b-[1px] border-[var(--border-color)]">
+            <nav className="border-b-[1px] border-[var(--border-color)] sticky top-0 z-50 bg-[var(--primary-bg-color)]/30 backdrop-blur-md">
                 <Container>
                     <div className='flex justify-between items-center py-4 text-white'>
                         <Logo />
