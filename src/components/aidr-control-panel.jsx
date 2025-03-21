@@ -31,7 +31,6 @@ const AiDrControlPanel = () => {
                         </div>
                     </div>
                 </div>
-
             </div>
         </>
     )
